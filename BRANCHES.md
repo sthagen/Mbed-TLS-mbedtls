@@ -25,8 +25,9 @@ ABI compatibility within LTS branches; see the next section for details.
 
 We will make regular LTS releases on an 18-month cycle, each of which will have
 a 3 year support lifetime. On this basis, 3.6 LTS (released March 2024) will be
-supported until March 2027. The next LTS release will be a 4.x release, which is
-planned for September 2025.
+supported until March 2027. The next LTS release will be a 4.x release. Due to
+the size and scope of the 4.0 release, the release date of the first 4.x LTS is
+yet to be determined.
 
 ## Backwards Compatibility for application code
 
@@ -106,6 +107,6 @@ The following branches are currently maintained:
 - [`development`](https://github.com/Mbed-TLS/mbedtls/)
 - [`mbedtls-3.6`](https://github.com/Mbed-TLS/mbedtls/tree/mbedtls-3.6)
  maintained until March 2027, see
-  <https://github.com/Mbed-TLS/mbedtls/releases/tag/v3.6.0>.
+  <https://github.com/Mbed-TLS/mbedtls/releases/tag/v3.6.4>.
 
 Users are urged to always use the latest version of a maintained branch.
